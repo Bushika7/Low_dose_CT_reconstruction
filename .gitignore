@@ -184,4 +184,5 @@ reconstruct_results_older
 saved_models_march_1
 saved_models_march_3
 *.deb
-get_pip.py
+get-pip.py
+*.h5
