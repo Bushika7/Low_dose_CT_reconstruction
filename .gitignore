@@ -186,3 +186,6 @@ saved_models_march_3
 *.deb
 get-pip.py
 *.h5
+saved_models_march_22
+saved_models_march_27
+logs
